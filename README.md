@@ -16,11 +16,6 @@ The purpose of this project was to practice the fundamentals of game development
 - Game over menu showing the final score
 - Simple and clean game loop structure
 
-## Technologies
-
-- C++
-- Raylib
-
 ## How the Game Works
 
 The game runs on a standard game loop:
