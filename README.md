@@ -22,3 +22,4 @@ The purpose of this project was to practice the fundamentals of game development
 - Raylib
 
 ## Video of gameplay:
+https://github.com/user-attachments/assets/fb995967-8d86-4ebb-a897-cdaa6418c2d5
