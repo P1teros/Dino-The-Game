@@ -20,3 +20,5 @@ The purpose of this project was to practice the fundamentals of game development
 
 - C++
 - Raylib
+
+## Video of gameplay:
